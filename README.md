@@ -1,18 +1,16 @@
-# [ScreenShot Bot](https://tx.me/ScreenShotTGBot)
+# [ScreenShot Bot](http://t.me/screenshotbotbyAI_bot)
 > Telegram Bot For Screenshot Generation.
 
 ## Description
 
-An attempt to implement the screenshot generation of telegram files without downloading the entire file. Live version can be found here [@ScreenShot Bot](https://tx.me/ScreenShotTGBot).
+An attempt to implement the screenshot generation of telegram files without downloading the entire file. Live version can be found here [@http://t.me/screenshot bot by AI](http://t.me/screenshotbotbyAI_bot).
 > Screenshot Generation with Custom Watermark---Sample Video Generation---Trim video.
 
 ## Installation Guide
 
 ### You can also tap the Deploy To Heroku button below to deploy straight to Heroku!
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/TGExplore/Screenshot-Bot)
-
-### Watch our YouTube video for more details - [Telegram Screenshot | Trim | Sample Video Generator Bot](https://youtu.be/Fsc-ZUvdO20)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/Gamer-AI-13/AIscreenshotbot.git)
 
 ### Prerequisites
 * FFmpeg.
@@ -88,12 +86,8 @@ In bot settings.
 * `Sample Video Duration` - Sample video's duration. Any of `30s`, `60s`, `90s`, `120s`, `150s`. Defaults to `30s`.
 * `Screenshot Genetation Mode` - Either `random` or `equally spaced`. Defaults to `equally spaced`.
 
-
-## Contributions
-Contributions are welcome.
-
 ## Contact
-You can contact me [@InFoTelGroup](https://tx.me/InFoTelGroup).
+You can contact me [@AI_BOT_HELP](https://t.me/AI_BOT_HELP).
 
 ## Thanks
 
